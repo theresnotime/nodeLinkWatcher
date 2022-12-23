@@ -1,0 +1,16 @@
+{
+  "name": "nodelinkwatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "watch.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "prettier -c watch.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.8.1",
+    "wikimedia-streams": "^0.3.1"
+  }
+}
